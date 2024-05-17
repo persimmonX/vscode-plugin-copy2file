@@ -24,6 +24,13 @@
     "pretest": "npm run lint",
     "test": "vscode-test"
   },
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/persimmonX/vscode-plugin-copy2file.git"  
+  },  
+  "author": "yqy2042<yqy2042@126.com>", 
+  "publisher": "yqy2042",
+  "license": "MIT",
   "devDependencies": {
     "@types/vscode": "^1.89.0",
     "@types/mocha": "^10.0.6",
